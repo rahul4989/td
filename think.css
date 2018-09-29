@@ -1,0 +1,39 @@
+nav
+
+{
+    background: rgba(0, 0, 0, 0.9);
+}
+ .about-us{
+     text-align: center;
+ }
+#about-heading{
+    border-bottom: 2px solid rgba(192,192,192,0.6) !important;
+}
+#about-para{
+    text-align: left;
+}
+.main-slider{
+    height:92vh;
+    width: 99vw;
+}
+.stuff-col{
+    text-align: center;
+}
+.quote{
+    background: darkred;
+    height: 200px;
+}
+#sir{
+    margin-top:10px ;
+}
+.blog-content{
+
+}
+.blog-content1{
+}
+.team{
+    text-align: center;
+}
+.caption{
+    text-align: center;
+}
